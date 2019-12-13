@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jeff.sweetland\\source\\repos\\BowlingScores\\Tests\\Tests.csproj": {}
+    "C:\\Users\\jeff.sweetland\\source\\repos\\DeveloperEvaluationProject\\Tests\\Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jeff.sweetland\\source\\repos\\BowlingScores\\BowlingScores\\BowlingScores.csproj": {
+    "C:\\Users\\jeff.sweetland\\source\\repos\\DeveloperEvaluationProject\\src\\BowlingScores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jeff.sweetland\\source\\repos\\BowlingScores\\BowlingScores\\BowlingScores.csproj",
+        "projectUniqueName": "C:\\Users\\jeff.sweetland\\source\\repos\\DeveloperEvaluationProject\\src\\BowlingScores.csproj",
         "projectName": "BowlingScores",
-        "projectPath": "C:\\Users\\jeff.sweetland\\source\\repos\\BowlingScores\\BowlingScores\\BowlingScores.csproj",
+        "projectPath": "C:\\Users\\jeff.sweetland\\source\\repos\\DeveloperEvaluationProject\\src\\BowlingScores.csproj",
         "packagesPath": "C:\\Users\\jeff.sweetland\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jeff.sweetland\\source\\repos\\BowlingScores\\BowlingScores\\obj\\",
+        "outputPath": "C:\\Users\\jeff.sweetland\\source\\repos\\DeveloperEvaluationProject\\src\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -60,14 +60,14 @@
         }
       }
     },
-    "C:\\Users\\jeff.sweetland\\source\\repos\\BowlingScores\\Tests\\Tests.csproj": {
+    "C:\\Users\\jeff.sweetland\\source\\repos\\DeveloperEvaluationProject\\Tests\\Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jeff.sweetland\\source\\repos\\BowlingScores\\Tests\\Tests.csproj",
+        "projectUniqueName": "C:\\Users\\jeff.sweetland\\source\\repos\\DeveloperEvaluationProject\\Tests\\Tests.csproj",
         "projectName": "Tests",
-        "projectPath": "C:\\Users\\jeff.sweetland\\source\\repos\\BowlingScores\\Tests\\Tests.csproj",
+        "projectPath": "C:\\Users\\jeff.sweetland\\source\\repos\\DeveloperEvaluationProject\\Tests\\Tests.csproj",
         "packagesPath": "C:\\Users\\jeff.sweetland\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jeff.sweetland\\source\\repos\\BowlingScores\\Tests\\obj\\",
+        "outputPath": "C:\\Users\\jeff.sweetland\\source\\repos\\DeveloperEvaluationProject\\Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -87,8 +87,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\jeff.sweetland\\source\\repos\\BowlingScores\\BowlingScores\\BowlingScores.csproj": {
-                "projectPath": "C:\\Users\\jeff.sweetland\\source\\repos\\BowlingScores\\BowlingScores\\BowlingScores.csproj"
+              "C:\\Users\\jeff.sweetland\\source\\repos\\DeveloperEvaluationProject\\src\\BowlingScores.csproj": {
+                "projectPath": "C:\\Users\\jeff.sweetland\\source\\repos\\DeveloperEvaluationProject\\src\\BowlingScores.csproj"
               }
             }
           }

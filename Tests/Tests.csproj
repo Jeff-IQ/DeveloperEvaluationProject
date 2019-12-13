@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BowlingScores\BowlingScores.csproj" />
+    <ProjectReference Include="..\src\BowlingScores.csproj" />
   </ItemGroup>
 
 </Project>
